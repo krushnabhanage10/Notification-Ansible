@@ -9,7 +9,7 @@
         port: 587
         username: "username@gmail.com"
         password: "email password"
-        to: Yousaf K Hamza <yousaf.k.hamza@gmail.com>
+        to: Yousaf K Hamza <krishnabhanage10@gmail.com>
         subject: Notification-from-Ansible
         body: 'System {{ ansible_hostname }} has been successfully provisioned.'
       delegate_to: localhost
